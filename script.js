@@ -1,3 +1,4 @@
+
 const billInput = document.getElementById('billTotalInput');
 
 const tipInput = document.getElementById('tipInput');
